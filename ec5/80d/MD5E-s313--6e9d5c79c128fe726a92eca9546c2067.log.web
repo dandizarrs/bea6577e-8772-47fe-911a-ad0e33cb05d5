@@ -1,0 +1,4 @@
+1776625902s 1 https://dandiarchive.s3.amazonaws.com/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/processing/plane-2/image_segmentation/roi_table/pixel_mask_index/.zarray?versionId=U6qaom6T3Rj_M26_2q94maMOZiEahX6B
+1776625902s 1 https://api.dandiarchive.org/api/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/files?prefix=processing%2Fplane-2%2Fimage_segmentation%2Froi_table%2Fpixel_mask_index%2F.zarray&download=true
+1776625914s 1 https://dandiarchive.s3.amazonaws.com/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/processing/plane-5/image_segmentation/roi_table/pixel_mask_index/.zarray?versionId=GVMyuOmMqJQaPK1VbEFrXQr9EYZxmvJk
+1776625914s 1 https://api.dandiarchive.org/api/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/files?prefix=processing%2Fplane-5%2Fimage_segmentation%2Froi_table%2Fpixel_mask_index%2F.zarray&download=true

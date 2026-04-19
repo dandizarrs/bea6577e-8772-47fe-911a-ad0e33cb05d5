@@ -1,0 +1,12 @@
+1776625897s 1 https://dandiarchive.s3.amazonaws.com/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/processing/plane-1/demixed/timestamps/0?versionId=V20PMLKHbKaIi2DlhsGs3bhvMdu_VsqS
+1776625897s 1 https://api.dandiarchive.org/api/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/files?prefix=processing%2Fplane-1%2Fdemixed%2Ftimestamps%2F0&download=true
+1776625898s 1 https://dandiarchive.s3.amazonaws.com/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/processing/plane-1/dff/timestamps/0?versionId=Cnk2C_Vq0Dvb53RFufgATep3yI_1VA.x
+1776625898s 1 https://api.dandiarchive.org/api/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/files?prefix=processing%2Fplane-1%2Fdff%2Ftimestamps%2F0&download=true
+1776625898s 1 https://dandiarchive.s3.amazonaws.com/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/processing/plane-1/events/timestamps/0?versionId=4kk0BwvQLUVeT7fDLifF8MyMTOpmcq45
+1776625898s 1 https://api.dandiarchive.org/api/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/files?prefix=processing%2Fplane-1%2Fevents%2Ftimestamps%2F0&download=true
+1776625900s 1 https://dandiarchive.s3.amazonaws.com/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/processing/plane-1/neuropil_corrected/timestamps/0?versionId=pcvkZgO7pnUFo0EvjCGPytYcJzdHGG3m
+1776625900s 1 https://api.dandiarchive.org/api/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/files?prefix=processing%2Fplane-1%2Fneuropil_corrected%2Ftimestamps%2F0&download=true
+1776625900s 1 https://dandiarchive.s3.amazonaws.com/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/processing/plane-1/neuropil_fluorescence/timestamps/0?versionId=XK2jW4u3KaCa4tGCJwl6X.ZtChRmuksL
+1776625900s 1 https://api.dandiarchive.org/api/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/files?prefix=processing%2Fplane-1%2Fneuropil_fluorescence%2Ftimestamps%2F0&download=true
+1776625900s 1 https://dandiarchive.s3.amazonaws.com/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/processing/plane-1/raw/timestamps/0?versionId=jUY9Z_wydXldlMQBCYDR3eHgeza_nv2o
+1776625900s 1 https://api.dandiarchive.org/api/zarr/bea6577e-8772-47fe-911a-ad0e33cb05d5/files?prefix=processing%2Fplane-1%2Fraw%2Ftimestamps%2F0&download=true
